@@ -1,0 +1,29 @@
+Pracuję w firime produkującej aparaty słuchowe jak również oprogramowanie dla audiologów, które ma za zadanie ułatwić 
+audiologom dopasowanie aparatu słuchowego do powstałej wady słuchu u pacjenta.
+Moim zadaniem jest praca nad aplikacją. Głównymi moimi zadaniami jest przygotowywanie i wykonywanie testów, oraz ich
+maintenance.
+
+Przygotowanie przypadków testów wiąże sie z dokonaniem analizy dostępnych wymagań jak również dokumentacji, w razie jak 
+wymagania są zbyt ogólnikowe i nie wskazują jak powinna się aplikacja zachowywać w niektórych przypadkach. 
+Często zdarza się że dokumentacja jest przestarzała lub po prostu jej nie ma, wówczas taka analiza obejmuje
+ścisłą współpracę z osobami piszącymi wymagania, developerami a czasami nawet z architetkami oprogramowania.
+
+Przygotowywanie testów równiez obejmuje przeprowadzanie review testów sporządzonych przez kolegów.
+
+Podczas wykonywania testów, dokonywana jest weryfikacja czy aplikacja spełnia wymagania. W razie odstępstw przeprowadzana
+jest analiza czy test zawiera prawidłowe podejście do danego zagadnienia, czasem zdarza się że developerzy pracują 
+na innej dokumentacji niż jest dostarczona dla testerów, związane jest to z procesem zatwierdzania wymagań. Ale to pominę.
+Jak zostanie ustalone że przypadek testowy jest nieprawidłowo napisany przekazany jest do poprawy, lub jak jest wada w 
+aplikacji to zgłaszany jest defekt.
+Jak wiadomo po naprawie wykonywany są restesty.
+
+A sam maintanance jest to analiza czy zmiany dokonane w aplikacji można pokryć przez istniejące juz testy, czy któreś z 
+wymagań nie uległo zmianie. Przeważnie zauważane jest to podczas analizy wymagań lub podczas wykonywania testów regresji.
+
+Aby zmieniejszyć ilość testów regresji, rozpoczęłam ich modyfikację na testy automatyczne. Do tej pory zastosowana była 
+metoda układania skryptów z dostępnych już keywordów, jednak w zeszłym tygodniu natknęłam się na brak metod więc obecnie
+uczę się jak przygotowywać dane metody.
+
+Pisanie, wykonywanie testów jak również zgłaszanie defektów wykonujemy początkowo były w MTM (czyli Microsoft Test Menager)
+od roku w RQMie. Do testów automatyczny stosujemy framework TestComplete. Do kontroli wersji stosujemy Visual Studio.
+
