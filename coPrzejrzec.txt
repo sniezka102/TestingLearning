@@ -1,0 +1,57 @@
+Jerry Weinberg, James Bach, Cem Kaner czy Michael Bolton.
+---------------------------------------------
+umiejętności miekkie testera
+Tematyka
+
+1. Komunikacja
+	Nawyki Covey’a
+	Model komunikacyjny „Trzy światy”
+	Komunikacja werbalna
+	Komunikacja niewerbalna
+	Modele informacji zwrotnej
+2. Asertywność
+	Mapa asertywności
+	Prawa Fensterheima
+	Pytania otwarte i zamknięte
+	Typy rekacji asertywnych
+3. Negocjacje
+	Reguły wpływu według Cialdiniego
+	Style negocjacyjne
+	Techniki negocjacji
+	Poziomy negocjacji
+ -----------------------------
+ testowanie agile
+ Tematyka:
+
+Metody zwinne, czyli co to jest Agile?
+	Agile Manifesto
+	Zestawienia Agile oraz metod klasycznych
+	Metody w Agile
+		Kanban
+		Lean
+		XP
+		Inne
+Zwinne zarządzanie na przykładzie Scrum
+
+Zwinne narzędzia
+	User Story
+	Backlog
+	Persona
+	Planning poker
+	Continuous Integration
+	Mapy myśli
+	Inne
+Zapewnienie jakości w Agile
+
+Rola testera w Agile
+
+Zwinna rzeczywistość
+Kwadrant testowania Agile
+Piramida testów
+TDD i ATDD
+Dokumentacja testów w Agile
+Metryki i wizualizacja
+Testowanie eksploracyjne
+Miękkie aspekty pracy zwinnej
+
+ 
