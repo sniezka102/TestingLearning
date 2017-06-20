@@ -1,4 +1,31 @@
 Jerry Weinberg, James Bach, Cem Kaner czy Michael Bolton.
+
+wydania:
+1. Standard for Component Testint - wydane przez BCS SIGITS
+2. Techniki projektowania testów - testerzy.pl
+3. A Practitioner's guide to software testing design - autor Copeland Lee, wydany przez Artech House Publishers
+4. Developing test causes from use cases by Ross Collard - www.steqemagazine.com
+----
+Kilka rad do wdrożeia dla dobrego testera:
+- Twórz mapy myśli (mindmap)?!?
+- Zrób kurs(y) "Black Box Software Testing". 
+- Śledź innych testerów na Twitterze
+- Dołączyłeś już do "Software Testing Club!"? 
+- Przeczytaj sylabus ISTQB od początku do końca. Pomyśl o nim jako o zamkniętej skrzynce. A teraz myśl "out-of-box". 
+- Powtarzaj sobie regularnie podstawy. 
+- Czytaj noty wydania produktu, którego używasz (lub nawet takich, których nie używasz). Zawierają listę naprawionych
+  defektów. Sprawdź czy te defekty nie występują w twoim produkcie
+- Ucz się z defektów, które znajdowane są na produkcji. Dowiedz się, jak to możliwe, że testowanie je ominęło
+- Czytaj o testowaniu tak dużo, ile dasz radę. Następnie przeczytaj tak dużo, ile dasz radę publikacji z obszarów spoza
+  testowania: projektowanie, tworzenie kodu, psychologia, antropologia, itd.  
+-  Sprawdź produkty konkurencji i porównaj je ze swoim
+-  Pamiętaj, że ludzie nie zawsze potrzebują tego, co myślą, że potrzebują. Przygotuj się na analizowanie "wokół" 
+	problemu, aby znaleźć dla niego rozwiązanie. Bez bezpośredniego zadawania pytań
+- Naucz się robić efektywne notatki i dokumentować testy na różne sposoby - modele, mapy myśli, szkice i inne, 
+	które pomogą Ci zrozumieć testowany obiekt i przyjąć inną perspektywę.
+-  Zaplanuj osobisty rozwój w ciągu tygodnia. 5%-10% czasu lub około połowy dnia na pogłębianie wiedzy poprzez 
+	czytanie, praktykowanie i uczenie się
+
 ---------------------------------------------
 umiejętności miekkie testera
 Tematyka
